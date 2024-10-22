@@ -59,6 +59,7 @@ Brand and Category Performance: Bar charts and pie charts illustrating the top-s
 
 
 
-Conclusion
+Conclusion -
+
 This analysis helps identify key trends in Amazon's electronics sales, with insights on top-performing brands, categories, and seasonal patterns. 
 It can assist businesses in improving sales strategies by focusing on popular products and understanding customer preferences
