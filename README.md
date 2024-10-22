@@ -1,4 +1,5 @@
 Amazon Electronics Sales Data Analysis
+
 This project analyzes Amazon's electronics sales data to discover trends in user ratings, sales over time, and brand/category performance. The dataset contains over 1.29 million rows, providing extensive insights into user preferences and sales behavior across different electronics categories.
 
 
@@ -33,13 +34,16 @@ Removed duplicate rows and ensured no null ratings.
 Key Insights
 
 Best Year of Sales:
+
 2015 had the highest sales in terms of total ratings.
 
 Top Brands by Year:
+
 In 2015: Bose was the most popular brand.
 In 2018: Bose, Mpow, and Logitech were the top 3 brands.
 
 Best Month of Sales:
+
 January showed the highest number of sales across all years.
 
 
@@ -49,12 +53,16 @@ Top-selling category: Portable Audio & Video.
 Least-selling category: Computers & Accessories.
 
 Brand-wise Analysis:
+
 Bose had the highest sales across the years, followed by Logitech and Etre Jeune.
 
 
 Visualizations - 
+
 Sales by Rating: Distribution of ratings across the dataset.
+
 Sales by Year: Year-over-year performance, with 2015 showing peak activity.
+
 Brand and Category Performance: Bar charts and pie charts illustrating the top-selling brands and categories.
 
 
@@ -62,4 +70,5 @@ Brand and Category Performance: Bar charts and pie charts illustrating the top-s
 Conclusion -
 
 This analysis helps identify key trends in Amazon's electronics sales, with insights on top-performing brands, categories, and seasonal patterns. 
+
 It can assist businesses in improving sales strategies by focusing on popular products and understanding customer preferences
