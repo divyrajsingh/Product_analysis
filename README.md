@@ -5,22 +5,15 @@ This project analyzes Amazon's electronics sales data to discover trends in user
 
 Dataset Source: Kaggle Electronics Dataset
 
-Columns:
-item_id: Unique identifier for each product.
-user_id: Unique identifier for each user.
-rating: User rating of the product (scale: 1 to 5).
-timestamp: Date and time of the rating.
-model_attr: User demographic attributes.
-category: Electronics product category (e.g., Portable Audio & Video, Headphones).
-brand: Brand of the product.
-year: Year of the rating.
-user_attr: Gender attribute of users.
-split: Train/test split identifier.
+
 
 
 Libraries Used
+
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical operations.
+
 Matplotlib/Seaborn: For data visualization.
 
 
